@@ -188,6 +188,24 @@ python3 main.py
 - **We are NOT responsible** for third-party service interruptions or API changes
 - **We are NOT responsible** for any mental health issues, stress, or anxiety caused by usage
 - **We are NOT responsible** for any reputation damage or social consequences
+- **We are NOT responsible** for any violation of computer crime laws, cyberbullying, or harassment
+- **We are NOT responsible** for any unauthorized access to confidential or proprietary information
+- **We are NOT responsible** for any damage to target websites, servers, or digital infrastructure
+- **We are NOT responsible** for any privacy violations, data breaches, or identity theft
+- **We are NOT responsible** for any employment issues, job loss, or professional consequences
+- **We are NOT responsible** for any educational institution disciplinary actions
+- **We are NOT responsible** for any immigration or visa issues resulting from usage
+- **We are NOT responsible** for any family disputes, relationship problems, or personal conflicts
+- **We are NOT responsible** for any addiction, compulsive behavior, or psychological dependency
+- **We are NOT responsible** for any physical health issues from prolonged computer use
+- **We are NOT responsible** for any software conflicts, system crashes, or operating system corruption
+- **We are NOT responsible** for any malware infections, virus transmissions, or security compromises
+- **We are NOT responsible** for any unauthorized purchases, subscriptions, or financial transactions
+- **We are NOT responsible** for any intellectual property disputes, trademark violations, or copyright claims
+- **We are NOT responsible** for any regulatory compliance issues, industry violations, or professional license problems
+- **We are NOT responsible** for any tax issues, audit problems, or financial reporting complications
+- **We are NOT responsible** for any insurance claim denials or premium increases
+- **We are NOT responsible** for any travel restrictions, border issues, or customs problems
 
 ### Usage Terms
 - This tool is for **educational and authorized testing only**
@@ -233,6 +251,54 @@ By using this application, you acknowledge and agree that:
 ### No Warranty
 This software is provided "AS IS" without any warranties, express or implied. The developers make no guarantees about the software's functionality, reliability, or suitability for any purpose.
 
+## FAQ
+
+### How many paths are scanned by default?
+The scanner includes 200+ built-in admin and sensitive paths covering common admin panels, login pages, configuration files, and sensitive directories.
+
+### Can I add my own paths?
+Yes! Use the "Import Wordlist" feature to load custom paths from a .txt file. Each path should be on a separate line.
+
+### What do the different colors mean?
+- **Green (200):** Path exists and is accessible
+- **Yellow (301/302):** Path redirects to another location
+- **Orange (403):** Path exists but access is forbidden
+- **Grey (404):** Path does not exist
+- **White:** Other status codes or errors
+
+### How long does a scan take?
+Scan time depends on:
+- Number of paths in your wordlist
+- Delay setting between requests
+- Target server response time
+- Network conditions
+
+Typical scans with default settings take 2-10 minutes.
+
+### Is this tool legal to use?
+This tool is legal for authorized security testing only. Always get explicit permission before scanning any target you don't own.
+
+## Troubleshooting Tips
+
+### Scan is very slow
+- Reduce the delay setting (but be careful not to overwhelm the server)
+- Check your internet connection
+- Verify the target server is responding
+
+### Getting many 404 errors
+- This is normal! Most paths won't exist on most servers
+- Focus on 200, 301/302, and 403 responses for interesting findings
+
+### Connection errors
+- Verify the target domain is correct
+- Check if the website is accessible in your browser
+- Try adding https:// if you used http:// (or vice versa)
+
 ## Version
 
 **v1.0** Initial release
+
+---
+
+**Thank you for using Admin Path Scanner!**  
+Remember to use responsibly and only on authorized targets.
