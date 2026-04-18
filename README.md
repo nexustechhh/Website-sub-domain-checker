@@ -26,6 +26,7 @@ The Admin Path Scanner is a desktop application designed to discover admin panel
 
 - Linux (Debian/Ubuntu) or Windows
 - Python 3.6 or higher
+- requests>=2.25.1
 - Internet connection
 
 ## Installation
@@ -42,10 +43,11 @@ The Admin Path Scanner is a desktop application designed to discover admin panel
    sudo apt install python3 python3-pip python3-tk -y
    ```
 
-3. Navigate to application directory:
+3. Navigate to your application directory:
    ```bash
-   cd "/home/nexus/Bug Hunting tools"
+   cd "path/to/your/folder"
    ```
+   *(Create your own folder and place the application files there)*
 
 4. Install dependencies:
    ```bash
@@ -62,10 +64,11 @@ The Admin Path Scanner is a desktop application designed to discover admin panel
 
 1. Install Python from https://www.python.org/downloads/ (Make sure to check "Add Python to PATH")
 
-2. Navigate to project folder:
+2. Navigate to your project folder:
    ```bash
-   cd "C:\Hunting tools"
+   cd "path\to\your\folder"
    ```
+   *(Create your own folder and place the application files there)*
 
 3. Install dependencies:
    ```bash
