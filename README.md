@@ -3,7 +3,7 @@
 **[IMPORTANT]** This is a desktop application. You MUST download the project files and run them locally. It will NOT work in a web browser.
 
 ---
-**Watermark:** Made By NexusTechhh | Admin Path Scanner v1.0
+**Watermark:** Created for authorized security testing | Admin Path Scanner v1.0
 ---
 
 ## Overview
@@ -186,26 +186,14 @@ python3 main.py
 - **We are NOT responsible** for any financial losses, business interruption, or consequential damages
 - **We are NOT responsible** for account suspensions, IP bans, or blacklisting by services
 - **We are NOT responsible** for third-party service interruptions or API changes
-- **We are NOT responsible** for any mental health issues, stress, or anxiety caused by usage
-- **We are NOT responsible** for any reputation damage or social consequences
-- **We are NOT responsible** for any violation of computer crime laws, cyberbullying, or harassment
-- **We are NOT responsible** for any unauthorized access to confidential or proprietary information
 - **We are NOT responsible** for any damage to target websites, servers, or digital infrastructure
+- **We are NOT responsible** for any unauthorized access to confidential or proprietary information
 - **We are NOT responsible** for any privacy violations, data breaches, or identity theft
-- **We are NOT responsible** for any employment issues, job loss, or professional consequences
-- **We are NOT responsible** for any educational institution disciplinary actions
-- **We are NOT responsible** for any immigration or visa issues resulting from usage
-- **We are NOT responsible** for any family disputes, relationship problems, or personal conflicts
-- **We are NOT responsible** for any addiction, compulsive behavior, or psychological dependency
-- **We are NOT responsible** for any physical health issues from prolonged computer use
 - **We are NOT responsible** for any software conflicts, system crashes, or operating system corruption
 - **We are NOT responsible** for any malware infections, virus transmissions, or security compromises
 - **We are NOT responsible** for any unauthorized purchases, subscriptions, or financial transactions
 - **We are NOT responsible** for any intellectual property disputes, trademark violations, or copyright claims
 - **We are NOT responsible** for any regulatory compliance issues, industry violations, or professional license problems
-- **We are NOT responsible** for any tax issues, audit problems, or financial reporting complications
-- **We are NOT responsible** for any insurance claim denials or premium increases
-- **We are NOT responsible** for any travel restrictions, border issues, or customs problems
 
 ### Usage Terms
 - This tool is for **educational and authorized testing only**
