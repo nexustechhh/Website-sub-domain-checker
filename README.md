@@ -3,7 +3,7 @@
 **[IMPORTANT]** This is a desktop application. You MUST download the project files and run them locally. It will NOT work in a web browser.
 
 ---
-**Watermark:** Created for authorized security testing | Admin Path Scanner v1.0
+**Watermark:** Created By NexusTechhh | Admin Path Scanner v1.0
 ---
 
 ## Overview
