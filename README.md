@@ -176,7 +176,62 @@ python3 main.py
 
 ## Legal Disclaimer
 
-This tool is for educational and authorized testing only. The user is responsible for proper usage.
+**IMPORTANT:** Read this section carefully before using the application.
+
+### Responsibility & Liability
+- **We are NOT responsible** for any damage to your computer system, data loss, or hardware issues
+- **We are NOT responsible** for any legal consequences, violations of laws, or legal trouble resulting from usage
+- **We are NOT responsible** for network issues, ISP problems, or internet service disruptions
+- **We are NOT responsible** for any security vulnerabilities or compromises to your system
+- **We are NOT responsible** for any financial losses, business interruption, or consequential damages
+- **We are NOT responsible** for account suspensions, IP bans, or blacklisting by services
+- **We are NOT responsible** for third-party service interruptions or API changes
+- **We are NOT responsible** for any mental health issues, stress, or anxiety caused by usage
+- **We are NOT responsible** for any reputation damage or social consequences
+
+### Usage Terms
+- This tool is for **educational and authorized testing only**
+- **You must** obtain explicit permission before scanning any target
+- **You must** comply with all applicable local, state, federal, and international laws
+- **You must** respect website terms of service and robots.txt files
+- **You must** use this tool responsibly and ethically
+
+### Risk Acknowledgment
+By using this application, you acknowledge and agree that:
+- You understand the risks involved in security testing
+- You are solely responsible for your actions and their consequences
+- You will not hold the developers liable for any misuse or damages
+- You will use this tool only on systems you own or have explicit permission to test
+
+### Copyright & Intellectual Property
+**WARNING:** This tool is protected by copyright and intellectual property laws.
+
+**Official Distribution:** GitHub is the ONLY official and authorized distribution channel. Any copies found elsewhere are unauthorized and illegal.
+
+**Strictly Prohibited:**
+- **DO NOT** copy, reproduce, or distribute this tool outside of GitHub
+- **DO NOT** reverse-engineer, decompile, or attempt to extract source code under any circumstances
+- **DO NOT** create derivative works that are substantially similar to this tool
+- **DO NOT** remove or alter copyright notices, watermarks, or attribution
+- **DO NOT** upload this tool to other platforms, websites, or distribution channels
+- **DO NOT** sell, license, or commercialize this tool in any form
+
+**Reverse Engineering Protection:**
+- This tool contains anti-tampering mechanisms and code obfuscation
+- Any attempts to reverse-engineer will be detected and prosecuted
+- Decompilation, debugging, or code extraction attempts are illegal
+- We use advanced techniques to protect our intellectual property
+
+**Allowed:** Creating tools *inspired by* the concepts or functionality, provided they are:
+- Original implementations with your own code (no copying)
+- Not direct copies or near-identical reproductions
+- Properly attributed if referencing concepts
+- Distributed through your own GitHub repository with proper attribution
+
+**Enforcement:** We actively monitor all platforms for copyright infringement and will take down unauthorized copies through legal means including DMCA notices, cease and desist letters, and legal action if necessary. Violators may face criminal charges.
+
+### No Warranty
+This software is provided "AS IS" without any warranties, express or implied. The developers make no guarantees about the software's functionality, reliability, or suitability for any purpose.
 
 ## Version
 
